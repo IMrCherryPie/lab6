@@ -1,0 +1,7 @@
+D:\6 семестр\Васильев\lab6\lab6\bin\Debug\lab6.exe.config
+D:\6 семестр\Васильев\lab6\lab6\bin\Debug\lab6.exe
+D:\6 семестр\Васильев\lab6\lab6\bin\Debug\lab6.pdb
+D:\6 семестр\Васильев\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\6 семестр\Васильев\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\6 семестр\Васильев\lab6\lab6\obj\Debug\lab6.exe
+D:\6 семестр\Васильев\lab6\lab6\obj\Debug\lab6.pdb

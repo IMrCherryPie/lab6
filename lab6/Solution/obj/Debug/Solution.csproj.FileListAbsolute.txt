@@ -4,3 +4,4 @@ D:\6 семестр\Васильев\lab6\Solution\bin\Debug\Solution.pdb
 D:\6 семестр\Васильев\lab6\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
 D:\6 семестр\Васильев\lab6\Solution\obj\Debug\Solution.exe
 D:\6 семестр\Васильев\lab6\Solution\obj\Debug\Solution.pdb
+D:\6 семестр\Васильев\lab6\Solution\obj\Debug\Solution.csprojAssemblyReference.cache

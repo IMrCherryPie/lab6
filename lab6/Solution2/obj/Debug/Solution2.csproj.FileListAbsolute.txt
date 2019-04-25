@@ -1,0 +1,6 @@
+D:\6 семестр\Васильев\lab6\Solution2\bin\Debug\Solution2.exe.config
+D:\6 семестр\Васильев\lab6\Solution2\bin\Debug\Solution2.exe
+D:\6 семестр\Васильев\lab6\Solution2\bin\Debug\Solution2.pdb
+D:\6 семестр\Васильев\lab6\Solution2\obj\Debug\Solution2.csproj.CoreCompileInputs.cache
+D:\6 семестр\Васильев\lab6\Solution2\obj\Debug\Solution2.exe
+D:\6 семестр\Васильев\lab6\Solution2\obj\Debug\Solution2.pdb

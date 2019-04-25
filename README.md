@@ -1,3 +1,2 @@
 # lab6
-
-not finished
+Final version
